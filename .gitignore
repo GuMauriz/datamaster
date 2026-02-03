@@ -13,3 +13,4 @@ case_cientista_de_dados_datamaster.pdf
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+*.zip
