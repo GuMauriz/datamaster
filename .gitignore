@@ -3,6 +3,7 @@
 # parquet/
 # ou, se "dados\parquet" é o caminho, use só a pasta de cima
 dados/
+models/
 
 # Arquivo PDF
 case_cientista_de_dados_datamaster.pdf
